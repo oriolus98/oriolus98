@@ -2,7 +2,7 @@
 
 👨‍💻  I'm an AI Engineer and Data Scientist with a background in Applied Physics. I'm focused on applying  cutting-edge AI and data-driven solutions to address climate and sustainability challenges. 
 
-My recent work involves time series analysis and computer vision technologies for resource management, including water supply and waste management. I'm also passionate about causal inference and exploring complex systems.
+My recent work involves time series analysis and computer vision technologies for resource management, including water supply and waste management. I'm also interested in causal inference and exploring complex systems.
 
 ## 💼 Experience
 
@@ -15,13 +15,13 @@ My recent work involves time series analysis and computer vision technologies fo
 
 **Data Scientist** @ Global Omnium Idrica SLU
 *October 2022 - June 2023*
-- Hybrid Data Scientist/Data Engineer role providing intelligent solutions for the optimization of the water cycle management
+- Hybrid Data Scientist/ Data Engineer role providing intelligent solutions for the optimization of the water cycle management
 - ETLs design and maintenance, development of water supply monitorization algorithms using Python, PostgreSQL and pySpark. Algorithms deployment and orchestration using Git, Docker and Kafka
 
 
 **Master Thesis** @ Escola Tècnica Superior d'Enginyeria - Universitat de València
 *September 2024*
-- Exploring Causal Inference methods to discover causal relations and assess the impact of human activities from climatic data
+- **Exploring Causal Inference methods to discover causal relations and assess the impact of human activities from climatic data**
 - Causal effects estimation using [Causal Impact](https://google.github.io/CausalImpact/) and causal discovery using [Tigramite](https://github.com/jakobrunge/tigramite), from temporal climatic data
 - Also explored temporal series clustering with [tslearn](https://github.com/tslearn-team/tslearn)
 - You can read my master thesis and check my code on [this repo](https://github.com/oriolus98/climate_classifier_causal_discovery)
@@ -72,7 +72,7 @@ My recent work involves time series analysis and computer vision technologies fo
 </div>
 
 
-## 🤝 Let's connect
+## 🤝 Let's connect!
 
 <a href="https://www.linkedin.com/in/oriol-chac%C3%B3n-albero-2771a723b/" target="_blank">
     <img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=linkedin">
