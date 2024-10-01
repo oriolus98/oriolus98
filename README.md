@@ -31,31 +31,31 @@ My recent work involves time series analysis and computer vision technologies fo
 
 <div class="box">
   <div class="header"><strong>🥇 Advanced</strong></div>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/-ScikitLearn-blue?style=flat&logo=scikitlearn&logoColor=#F7931E" alt="scikitlearn"> 
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas"> 
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="pandas"> 
   <img src="https://img.shields.io/badge/-TensorFlow-orange?style=flat&logo=tensorflow&logoColor=white" alt="TF">  
   <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF" alt="Git">
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux">
 </div>
 <br>  
 <div class="box">
   <div class="header"><strong>🥈 Intermediate </strong></div>
-  <img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R (Statistics)">
+  <img src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white" alt="R (Statistics)">
   <img src="https://img.shields.io/badge/language-MATLAB-blue" alt="Matlab">  
   <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF" alt="MongoDB">  
-   <img src="https://img.shields.io/badge/Flask-ADD8E6?style=for-the-badge&logo=Flask&logoColor=black" alt="flask">
-  <img src="https://img.shields.io/badge/-Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white" alt="Spark">
+   <img src="https://img.shields.io/badge/Flask-ADD8E6?style=flat&logo=Flask&logoColor=black" alt="flask">
+  <img src="https://img.shields.io/badge/-Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white" alt="Spark">
   
 </div>
 <br>  
 <div class="box">
   <div class="header"><strong>🥉 Familiar </strong></div>
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/-OpenCV-blck?style=flat&logo=opencv&logoColor=blue" alt="opencv">
   <img src="https://img.shields.io/badge/-MLFlow-white?style=flat&logo=mlflow&logoColor=0194E2" alt="MLFlow">
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="kafka">
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white" alt="kafka">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML">
   <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff" alt="C++">
 
