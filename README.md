@@ -52,6 +52,7 @@ My recent work involves time series analysis and computer vision technologies fo
 <br>  
 <div class="box">
   <div class="header"><strong>🥉 Familiar </strong></div>
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="Torch">
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/-OpenCV-blck?style=flat&logo=opencv&logoColor=blue" alt="opencv">
   <img src="https://img.shields.io/badge/-MLFlow-white?style=flat&logo=mlflow&logoColor=0194E2" alt="MLFlow">
