@@ -8,9 +8,9 @@ My recent work involves time series analysis and computer vision technologies fo
 
 **AI Engineer** @ VRAIN (Valencian Research Institute for Artificial Intelligence) - Universitat Politècnica de València
 *July 2023 - Present*
-- Research on the integration of different Machine/Deep Learning tools across various stages of the waste management value chain, within the ReciclAI360º R&D project
-- Waste image and video classification, development of an application as a personal recycling assistant, behaviour analysis, resources optimization...
+- Research on the integration of different Machine/Deep Learning tools across various stages of the waste management value chain, within the ReciclAI360º R&D project. Waste image and video classification, development of an application as a personal recycling assistant, behaviour analysis, resources optimization... Publications:
 - O. Chacón-Albero et al. *Towards sustainable recycling: Advancements in AI-based waste classification*. PAAMS international conference, Salamanca, June 2024, soon to be published in [Springer CCIS](https://link.springer.com/book/9783031730573)
+- M. Campos-Mocholí, O. Chacón-Albero et al. *CLARA: Semi-automatic Retraining System*. In: Intelligent Data Engineering and Automated Learning 2024. Lecture Notes in Computer Science, vol 15347. Springer, Cham. https://doi.org/10.1007/978-3-031-77738-7_14 
 
 
 **Data Scientist** @ Global Omnium Idrica SLU
@@ -44,6 +44,7 @@ My recent work involves time series analysis and computer vision technologies fo
   <div class="header"><strong>🥈 Intermediate </strong></div>
   <img src="https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white" alt="R (Statistics)">
   <img src="https://img.shields.io/badge/language-MATLAB-blue" alt="Matlab">  
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="Torch">
   <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF" alt="MongoDB">  
    <img src="https://img.shields.io/badge/Flask-ADD8E6?style=flat&logo=Flask&logoColor=black" alt="flask">
   <img src="https://img.shields.io/badge/-Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white" alt="Spark">
@@ -52,7 +53,6 @@ My recent work involves time series analysis and computer vision technologies fo
 <br>  
 <div class="box">
   <div class="header"><strong>🥉 Familiar </strong></div>
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="Torch">
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/-OpenCV-blck?style=flat&logo=opencv&logoColor=blue" alt="opencv">
   <img src="https://img.shields.io/badge/-MLFlow-white?style=flat&logo=mlflow&logoColor=0194E2" alt="MLFlow">
