@@ -9,7 +9,7 @@ My recent work involves time series analysis and computer vision technologies fo
 **AI Engineer** @ VRAIN (Valencian Research Institute for Artificial Intelligence) - Universitat Politècnica de València
 *July 2023 - Present*
 - Research on the integration of different Machine/Deep Learning tools across various stages of the waste management value chain, within the ReciclAI360º R&D project. Waste image and video classification, development of an application as a personal recycling assistant, behaviour analysis, resources optimization... Publications:
-- O. Chacón-Albero et al. *Towards sustainable recycling: Advancements in AI-based waste classification*. PAAMS international conference, Salamanca, June 2024, soon to be published in [Springer CCIS](https://link.springer.com/book/9783031730573)
+- O. Chacón-Albero et al. *Towards Sustainable Recycling: Advancements in AI-Based Waste Classification*. In: Highlights in Practical Applications of Agents, Multi-Agent Systems, and Digital Twins 2024. Communications in Computer and Information Science, vol 2149. Springer, Cham. https://doi.org/10.1007/978-3-031-73058-0_2
 - M. Campos-Mocholí, O. Chacón-Albero et al. *CLARA: Semi-automatic Retraining System*. In: Intelligent Data Engineering and Automated Learning 2024. Lecture Notes in Computer Science, vol 15347. Springer, Cham. https://doi.org/10.1007/978-3-031-77738-7_14 
 
 
